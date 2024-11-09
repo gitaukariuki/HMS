@@ -1,5 +1,5 @@
 #Gitau Kariuki
-#Python 2.7
+#Python 3
 
 from flask import Flask,send_from_directory,render_template
 from flask_restful import Resource, Api
